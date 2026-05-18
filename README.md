@@ -1,5 +1,7 @@
 # PresenceIQ: Workforce Analytics Dashboard
 
+
+
 ## Employee Presence, Work-From-Home & Attendance Intelligence
 
 PresenceIQ is an advanced HR analytics dashboard developed using **Power BI** to monitor employee attendance, workforce availability, work-from-home trends, onsite presence, and sick leave behavior.
@@ -354,7 +356,7 @@ PresenceIQ-Workforce-Analytics-Dashboard/
 │   ├── Attendance_Data.xlsx
 │
 ├── Screenshots/
-│   ├── Dashboard_Overview.png
+│   ├── PresenceIQ_Dashboard.png
 │
 ├── README.md
 ```
