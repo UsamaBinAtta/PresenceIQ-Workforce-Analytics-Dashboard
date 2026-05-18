@@ -1,6 +1,8 @@
 # PresenceIQ: Workforce Analytics Dashboard
 
+## Dashboard Preview
 
+![PresenceIQ Dashboard](https://github.com/UsamaBinAtta/PresenceIQ-Workforce-Analytics-Dashboard/blob/main/PresenceIQ_Dashboard.png?raw=true)
 
 ## Employee Presence, Work-From-Home & Attendance Intelligence
 
@@ -360,11 +362,6 @@ PresenceIQ-Workforce-Analytics-Dashboard/
 │
 ├── README.md
 ```
-
----
-## Dashboard Preview
-
-![PresenceIQ Dashboard](https://github.com/UsamaBinAtta/PresenceIQ-Workforce-Analytics-Dashboard/blob/main/PresenceIQ_Dashboard.png?raw=true)
 
 ---
 
