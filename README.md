@@ -362,6 +362,11 @@ PresenceIQ-Workforce-Analytics-Dashboard/
 ```
 
 ---
+## Dashboard Preview
+
+![PresenceIQ Dashboard](https://github.com/UsamaBinAtta/PresenceIQ-Workforce-Analytics-Dashboard/blob/main/PresenceIQ_Dashboard.png?raw=true)
+
+---
 
 # How to Run the Project
 
